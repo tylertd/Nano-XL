@@ -1,0 +1,11 @@
+words =["tuin", "havik", "avocado", "kat", "hond", "schildpad", "boom", "vogel", "zee", "rots", "berg",
+    "fiets", "auto", "trein", "boek", "pen", "stoel", "tafel", "bank", "lamp", "computer", "telefoon",
+    "muis", "toetsenbord", "plant", "bloem", "gras", "regen", "zon", "maan", "ster", "wolk", "wind",
+    "vuur", "ijs", "water", "zand", "strand", "bos", "dier", "vis", "konijn", "eekhoorn", "beer",
+    "wolf", "leeuw", "tijger", "panter", "slang", "spin", "mier", "bij", "kever", "vlinder",
+    "duif", "kip", "koe", "paard", "geit", "varken", "krokodil", "dolfijn", "haai", "pinguïn",
+    "zebra", "olifant", "neushoorn", "nijlpaard", "giraf", "struik", "klimop", "mos", "eik",
+    "den", "wilg", "palboom", "citroen", "banaan", "appel", "peer", "druif", "kers", "meloen",
+    "kiwi", "sinaasappel", "aardbei", "framboos", "bosbes", "ananas", "tomaat", "komkommer",
+    "wortel", "broccoli", "bloemkool", "peper", "aardappel", "ui", "knoflook", "gember", "munt",
+    "basilicum", "oregano", "tijm", "rozemarijn", "salie"]
